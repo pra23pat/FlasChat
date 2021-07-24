@@ -8,17 +8,17 @@ It uses Firebase for user Authentication and database storage.
 
 Welcome Page:
 
-![alt text](https://github.com/pra23pat/FlashChat/blob/main/start.gif)
+<img src="https://github.com/pra23pat/FlashChat/blob/main/start.gif" width="300" height="800"  />
 
 
 Registration page :
 
-![alt text](https://github.com/pra23pat/FlashChat/blob/main/register.jpg)
+<img src="https://github.com/pra23pat/FlashChat/blob/main/register.jpg" width="300" height="800" />
 
 Login Page :
 
-![alt text](https://github.com/pra23pat/FlashChat/blob/main/login.jpg)
+<img src="https://github.com/pra23pat/FlashChat/blob/main/login.jpg" width="300" height="800" />
 
 Chatting Page :
 
-![alt text](https://github.com/pra23pat/FlashChat/blob/main/chatting.gif)       ![alt text](https://github.com/pra23pat/FlashChat/blob/main/chat%201.jpg)
+<img src="https://github.com/pra23pat/FlashChat/blob/main/chatting.gif" width="300" height="800" />      <img src="https://github.com/pra23pat/FlashChat/blob/main/chat%201.jpg"   width="300" height="800" />
