@@ -8,4 +8,4 @@ It uses Firebase for user Authentication and database storage.
 
 Welcome Page:
 
-![alt text](https://github.com/pra23pat/FlashChat/blob/main/start.mp4)
+![alt text](https://github.com/pra23pat/FlashChat/blob/main/start.gif)
